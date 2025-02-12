@@ -2,14 +2,14 @@
 
 To showcase some of my **machine learning and data science projects** that highlight my skills, passion for problem-solving, and continuous learning journey. This repository is a work in progress, and I’m excited to share my growth with you!
 
-👋 Hi, I'm [Abhishek Banerjee]!
+👋 Hi, I'm Abhishek Banerjee!
 Welcome to my GitHub profile! I’m a passionate learner diving into the world of programming, machine learning, and data science. My goal is to solve real-world problems through code and make technology accessible to everyone. Whether you're here to collaborate, learn, or explore, I’m thrilled to have you here!
 
 🌟 **About Me**
-- **Name**: [Abhishek Banerjee]
-- **Location**: [Delhi, India]
+- **Name**: Abhishek Banerjee
+- **Location**: Delhi, India
 - **Profession**: Enthusiastic coder, problem solver, and lifelong learner.
-- **Languages**: [English, Hindi, Bengali & little bit of Nepali]
+- **Languages**: English, Hindi, Bengali & little bit of Nepali
 - **Specialization**: Machine learning, data analysis, Python programming, and leveraging AI/ML to solve real-world challenges.
 - **Hobbies**: Exploring generative AI, reading tech blogs, experimenting with new datasets, and building creative solutions.
 
